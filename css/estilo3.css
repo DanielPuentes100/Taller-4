@@ -1,0 +1,135 @@
+.contenedor1{
+
+display: flex;
+background-color: rgb(10, 10, 110);
+height: 60px;
+
+}
+
+.izquierda{
+
+width: 30%;
+
+}
+
+.derecha{
+text-align: end;
+width: 70%;
+
+}
+
+
+.about-us {
+    background-color: #3498db;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.about-content {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 0 20px;
+}
+
+.about-info img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.about-text {
+    max-width: 600px;
+    text-align: left;
+}
+
+.our-team {
+    background-color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.teamcontenedor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    background-color: #b0afaf;
+    padding: 30px;
+}
+
+.teamembers {
+    display: flex;
+    gap: 20px;
+}
+
+.teamember {
+    text-align: center;
+}
+
+.teamember img {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+.teamember h3 {
+    margin-top: 10px;
+    color: #333;
+}
+
+.teamember p {
+    margin-top: 5px;
+    color: #777;
+}
+
+.team-text {
+    text-align: right;
+    padding: 30px;
+    
+}
+
+.team-text h2 {
+    color: white;
+    background-color: rgb(61, 61, 225); 
+}
+
+
+.contenedor3{
+
+    display: flex;
+background-color: #a2a2a2;
+padding: 40px;
+
+}
+
+.izquierda3{
+text-align: center;
+width: 30%;
+
+}
+
+.derecha3{
+
+width: 50%;
+justify-items: center;
+
+}
+
+.imagen{
+
+width: 20%;
+
+}
